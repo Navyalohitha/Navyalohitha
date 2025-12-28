@@ -3,14 +3,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Machine learning projects and improving my coding skills.
-- 🌱 I’m currently learning ...MongoDB, data science, and advanced machine learning concepts.
-- 👯 I’m looking to collaborate on ...Machine learning, data science, and Python projects.
-- 🤔 I’m looking for help with ...Real-world ML projects and improving model performance.
-- 💬 Ask me about ...Python, machine learning, SQL, and basic cloud concepts.
-- 📫 How to reach me: ...navyalohitha49@gmail.com,+91 6305169349
-- 😄 Pronouns: ...She / Her
-- ⚡ Fun fact: ...I enjoy solving coding problems and learning new technologies every day.
+- 🔭 I’m currently working on Machine learning projects and improving my coding skills.
+- 🌱 I’m currently learning MongoDB, data science, and advanced machine learning concepts.
+- 👯 I’m looking to collaborate on Machine learning, data science, and Python projects.
+- 🤔 I’m looking for help with Real-world ML projects and improving model performance.
+- 💬 Ask me about Python, machine learning, SQL, and basic cloud concepts.
+- 📫 How to reach me: navyalohitha49@gmail.com, +91 6305169349
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: I enjoy solving coding problems and learning new technologies every day.
 <h1 align="center">Hi 👋, I'm Navya lohita Tirumalapudi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
